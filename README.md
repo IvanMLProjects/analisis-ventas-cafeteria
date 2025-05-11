@@ -65,7 +65,7 @@ Se abordan las siguientes preguntas utilizando Python y Power BI:
 ---
 
 ## 🛠️ Tecnologías utilizadas
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, Numpy, Matplotlib, Seaborn)
 - Power BI
 - Jupyter Notebook
 
